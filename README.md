@@ -30,6 +30,17 @@ Output :
 List : ['3', ' 5', ' 7', ' 23']
 Tuple : ('3', ' 5', ' 7', ' 23')
 
-7.Write a Python program to accept a filename from the user and print the extension of that.
+7. Write a Python program to accept a filename from the user and print the extension of that.
 Sample filename : abc.java
 Output : java
+
+8. Write a Python program to display the first and last color from the following list.
+color_list = ["Red","Green","White" ,"Black"]
+
+9. Write a Python program to display the examination schedule. (extract the date from exam_st_date).
+exam_st_date = (11, 12, 2014)
+Sample Output : The examination will start from : 11 / 12 / 2014
+
+10. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+Sample value of n is 5
+Expected Result : 615
