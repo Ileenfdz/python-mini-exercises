@@ -29,3 +29,7 @@ Sample data : 3, 5, 7, 23
 Output :
 List : ['3', ' 5', ' 7', ' 23']
 Tuple : ('3', ' 5', ' 7', ' 23')
+
+7.Write a Python program to accept a filename from the user and print the extension of that.
+Sample filename : abc.java
+Output : java
